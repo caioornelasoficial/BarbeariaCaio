@@ -7,8 +7,9 @@ body {
 }
 
 .principal {
-    background: #FFFFFF;
+    background: #CCCCCC;
     padding: 30px;
+    border-radius: 15px;
 }
 
 .titulo-principal {
