@@ -9,7 +9,6 @@ body {
 .principal {
     background: #FFFFFF;
     padding: 30px;
-    border-radius: 15px;
 }
 
 .titulo-principal {
@@ -51,4 +50,5 @@ ul {
 
 .imagembeneficio {
 	width: 50%;
+    border-radius: 15px;
 }
