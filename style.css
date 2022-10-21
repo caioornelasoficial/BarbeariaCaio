@@ -1,5 +1,5 @@
 body {
-	
+	background: #CCCCCC;
 }
 
 #banner {
@@ -24,7 +24,7 @@ p {
 }
 
 #missao {
-	style=font-size: 20px
+	font-size: 20px;
 }
 
 em strong {
