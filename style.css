@@ -1,5 +1,5 @@
 body {
-	background: #CCCCCC;
+	background: #FFFFFF;
 }
 
 #banner {
@@ -7,8 +7,9 @@ body {
 }
 
 .principal {
-    background: #CCCCCC;
+    background: #FFFFFF;
     padding: 30px;
+    border-radius: 15px;
 }
 
 .titulo-principal {
